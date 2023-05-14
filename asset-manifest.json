@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChainAnalytics/static/css/main.c72f306d.css",
+    "main.js": "/ChainAnalytics/static/js/main.c99cb909.js",
+    "static/js/787.e97455e4.chunk.js": "/ChainAnalytics/static/js/787.e97455e4.chunk.js",
+    "index.html": "/ChainAnalytics/index.html",
+    "main.c72f306d.css.map": "/ChainAnalytics/static/css/main.c72f306d.css.map",
+    "main.c99cb909.js.map": "/ChainAnalytics/static/js/main.c99cb909.js.map",
+    "787.e97455e4.chunk.js.map": "/ChainAnalytics/static/js/787.e97455e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72f306d.css",
+    "static/js/main.c99cb909.js"
+  ]
+}
